@@ -30,10 +30,6 @@ const PokemonCard: FunctionComponent<Props> = ({
   }
 
 
-
-
-
-
   return (
     <div
       className="col s6 m4"
